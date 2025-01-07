@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Muhammad Afif Faizun<br>20 Tahun</p>
+<p align="left">Muhammad Afif Faizun</p>
 
-<p align="left">✨ Belajar Java Springboot<br>📚 Saat ini saya berkuliah di Uin Sunan Kalijag</p>
+<p align="left">✨ Belajar Java Springboot<br>📚 Saat ini saya berkuliah di Uin Sunan Kalijaga Yogyakarta</p>
 
 ###
 
